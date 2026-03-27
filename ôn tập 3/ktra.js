@@ -179,4 +179,4 @@ document
   .querySelector(".btn-secondary")
   .addEventListener("click", resetForm);
 
-renderTable();
+render();
